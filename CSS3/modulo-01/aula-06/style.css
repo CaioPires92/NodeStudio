@@ -1,0 +1,8 @@
+#conteudo {
+    max-width: 500px;
+    max-height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

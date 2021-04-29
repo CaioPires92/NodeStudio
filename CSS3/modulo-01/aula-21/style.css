@@ -1,0 +1,12 @@
+#exemplo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: all 2s linear;
+}
+
+#exemplo:hover {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
